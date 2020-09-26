@@ -157,7 +157,7 @@ class _LoginScreenState extends State<LoginScreen> {
       padding: EdgeInsets.symmetric(vertical: 25.0),
       width: double.infinity,
       child: RaisedButton(
-        elevation: 5.1,
+        elevation: 5.2,
         onPressed: () {
           verifyPhone(_email);
         },
