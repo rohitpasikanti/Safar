@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044107879098",
+    "firebase_url": "https://safar-30625.firebaseio.com",
+    "project_id": "safar-30625",
+    "storage_bucket": "safar-30625.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044107879098:android:81d82fda76da451a399883",
+        "android_client_info": {
+          "package_name": "com.example.flutter_test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044107879098-081a9bi9p16i2n275nhgu0ljbcij434a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv3R_DTOOHe427Nr-FtmVpqAzOi3_TfgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044107879098-081a9bi9p16i2n275nhgu0ljbcij434a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
